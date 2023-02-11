@@ -1,5 +1,12 @@
 ﻿# C# Selenium Framework
 
+## Comands
+
+### Run Tests
+
+> dotnet test
+> dotnet test --logger trx
+
 ## Tools
 
 [Visual Studio](https://visualstudio.microsoft.com/)

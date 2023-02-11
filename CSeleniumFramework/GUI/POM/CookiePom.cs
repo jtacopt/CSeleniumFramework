@@ -2,7 +2,7 @@
 using OpenQA.Selenium.Support.UI;
 using SeleniumExtras.WaitHelpers;
 
-namespace CSeleniumFramework.GUI.POM
+namespace CSeleniumFramework.gui.pom
 {
     public class CookiePom
     {
